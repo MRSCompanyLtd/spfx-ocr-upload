@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-ocr-upload-client-side-solution",
+    "id": "dbc94b5a-6ec3-4b41-ba09-f66801c8c80b",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "spfx-ocr-upload description"
+      },
+      "longDescription": {
+        "default": "spfx-ocr-upload description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "spfx-ocr-upload Feature",
+        "description": "The feature that activates elements of the spfx-ocr-upload solution.",
+        "id": "12f0296f-1d8b-441c-b9ec-3834b8036862",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-ocr-upload.sppkg"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "upload-with-ocr-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/uploadWithOcr/UploadWithOcrWebPart.js",
+          "manifest": "./src/webparts/uploadWithOcr/UploadWithOcrWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "UploadWithOcrWebPartStrings": "lib/webparts/uploadWithOcr/loc/{locale}.js"
+  }
+}
