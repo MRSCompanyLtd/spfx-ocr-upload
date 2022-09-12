@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.0",
+    "libraryName": "spfx-ocr-upload",
+    "libraryId": "dbc94b5a-6ec3-4b41-ba09-f66801c8c80b",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "spfx-ocr-upload",
+    "solutionShortDescription": "spfx-ocr-upload description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
